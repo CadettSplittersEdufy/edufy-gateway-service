@@ -6,4 +6,4 @@ Gateway for Edufy, a 10+ service microservices platform for streaming media (mus
 
 **Stack:** Spring Cloud Gateway, Keycloak (OAuth2/OIDC), Docker, Docker Compose.
 
-**Related repos:** [edufy-user-service](link) · [edufy-ratings-service](link) — both built and owned by me, see their own READMEs.
+**Related repos:** [edufy-user-service]([link](https://github.com/CadettSplittersEdufy/edufy-user-service)) · [edufy-ratings-service]([link](https://github.com/CadettSplittersEdufy/edufy-ratings-service)) — both built and owned by me, see their own READMEs.
